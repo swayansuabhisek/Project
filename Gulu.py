@@ -10,7 +10,7 @@ def submit():
     file.write(getf+","+getl+","+str(geta)+"\n")
     file.close()
     
-    print("User Registered")
+    print("USER REGISTERED SUCCESFUL")
 
 win = Tk()
 win . title("REGISTRATION FORM")
